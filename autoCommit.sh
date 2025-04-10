@@ -3,5 +3,5 @@ git add monitoreo/monitoreo_sistema.csv
 git add README.md
 git add autoCommit.sh
 git commit -m "Commit automatico en monitoreo"
-git push origin monitoreo
+git push origin main
 echo "Rama subida a GitHub completado con éxito!"
